@@ -1,6 +1,6 @@
-(this["webpackJsonpbyebyelizhi-fontend"]=this["webpackJsonpbyebyelizhi-fontend"]||[]).push([[0],{20:function(i,e,t){i.exports=t.p+"static/media/alipay.8ef0f0ea.jpeg"},21:function(i,e,t){i.exports=t.p+"static/media/weibo.990e4da1.jpeg"},22:function(i,e,t){i.exports=t.p+"static/media/wechatpay.f2880030.png"},23:function(i){i.exports=JSON.parse('
+(this["webpackJsonpbyebyelizhi-fontend"]=this["webpackJsonpbyebyelizhi-fontend"]||[]).push([[0],{20:function(i,e,t){i.exports=t.p+"static/media/alipay.8ef0f0ea.jpeg"},21:function(i,e,t){i.exports=t.p+"static/media/weibo.990e4da1.jpeg"},22:function(i,e,t){i.exports=t.p+"static/media/wechatpay.f2880030.png"},23:function(i){i.exports=JSON.parse('[
 
-[{"name":"\u56fd\u8bed\u7cbe\u9009","cover":"http://byebyelizhi.top/music/\u88ab\u7981\u5fcc\u7684\u6e38\u620f/cover.jpg","category":1,"musics":
+{"name":"\u56fd\u8bed\u7cbe\u9009","cover":"http://byebyelizhi.top/music/\u88ab\u7981\u5fcc\u7684\u6e38\u620f/cover.jpg","category":1,"musics":
 [
 
 {"id":[1,1],"name":"ALin-\u7ed9\u6211\u4e00\u4e2a\u7406\u7531\u5fd8\u8bb0","src":"https://vercel.11.wf/free163person/\u97f3\u4e50\u89c6\u542c/\u7cbe\u9009/ALin-\u7ed9\u6211\u4e00\u4e2a\u7406\u7531\u5fd8\u8bb0.mp3"},
